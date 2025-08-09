@@ -1,2 +1,2 @@
-# reposit-rio-lucas
+# repositorio-lucas
 Primeiro Reposotório
